@@ -10,3 +10,6 @@ playwright-report/
 .DS_Store
 *.log
 *.tsbuildinfo
+.next/
+apps/web/e2e/screenshots/
+next-env.d.ts
